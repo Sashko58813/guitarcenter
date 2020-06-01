@@ -5,6 +5,7 @@ public class App {
         System.setProperty("webdriver.chrome.driver", "D:\\WebAutoamtion\\WebDrivers\\Chrome\\chromedriver.exe");
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
+      
     }
 }
 
